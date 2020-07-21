@@ -1,0 +1,13 @@
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\ProgramaTeste\bin\Debug\netcoreapp3.1\ProgramaTeste.exe
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\ProgramaTeste\bin\Debug\netcoreapp3.1\ProgramaTeste.deps.json
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\ProgramaTeste\bin\Debug\netcoreapp3.1\ProgramaTeste.runtimeconfig.json
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\ProgramaTeste\bin\Debug\netcoreapp3.1\ProgramaTeste.runtimeconfig.dev.json
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\ProgramaTeste\bin\Debug\netcoreapp3.1\ProgramaTeste.dll
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\ProgramaTeste\bin\Debug\netcoreapp3.1\ProgramaTeste.pdb
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\ProgramaTeste\obj\Debug\netcoreapp3.1\ProgramaTeste.AssemblyInfoInputs.cache
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\ProgramaTeste\obj\Debug\netcoreapp3.1\ProgramaTeste.AssemblyInfo.cs
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\ProgramaTeste\obj\Debug\netcoreapp3.1\ProgramaTeste.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\ProgramaTeste\obj\Debug\netcoreapp3.1\ProgramaTeste.dll
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\ProgramaTeste\obj\Debug\netcoreapp3.1\ProgramaTeste.pdb
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\ProgramaTeste\obj\Debug\netcoreapp3.1\ProgramaTeste.genruntimeconfig.cache
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\ProgramaTeste\obj\Debug\netcoreapp3.1\ProgramaTeste.csprojAssemblyReference.cache
