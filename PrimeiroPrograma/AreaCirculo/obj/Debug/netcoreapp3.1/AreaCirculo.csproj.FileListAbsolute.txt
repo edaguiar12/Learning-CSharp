@@ -1,0 +1,13 @@
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\AreaCirculo\bin\Debug\netcoreapp3.1\AreaCirculo.exe
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\AreaCirculo\bin\Debug\netcoreapp3.1\AreaCirculo.deps.json
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\AreaCirculo\bin\Debug\netcoreapp3.1\AreaCirculo.runtimeconfig.json
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\AreaCirculo\bin\Debug\netcoreapp3.1\AreaCirculo.runtimeconfig.dev.json
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\AreaCirculo\bin\Debug\netcoreapp3.1\AreaCirculo.dll
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\AreaCirculo\bin\Debug\netcoreapp3.1\AreaCirculo.pdb
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.csprojAssemblyReference.cache
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.AssemblyInfoInputs.cache
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.AssemblyInfo.cs
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.dll
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.pdb
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.genruntimeconfig.cache

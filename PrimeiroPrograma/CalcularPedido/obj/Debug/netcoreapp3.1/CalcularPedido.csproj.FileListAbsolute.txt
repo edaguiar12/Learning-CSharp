@@ -1,0 +1,13 @@
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\CalcularPedido\bin\Debug\netcoreapp3.1\CalcularPedido.exe
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\CalcularPedido\bin\Debug\netcoreapp3.1\CalcularPedido.deps.json
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\CalcularPedido\bin\Debug\netcoreapp3.1\CalcularPedido.runtimeconfig.json
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\CalcularPedido\bin\Debug\netcoreapp3.1\CalcularPedido.runtimeconfig.dev.json
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\CalcularPedido\bin\Debug\netcoreapp3.1\CalcularPedido.dll
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\CalcularPedido\bin\Debug\netcoreapp3.1\CalcularPedido.pdb
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\CalcularPedido\obj\Debug\netcoreapp3.1\CalcularPedido.csprojAssemblyReference.cache
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\CalcularPedido\obj\Debug\netcoreapp3.1\CalcularPedido.AssemblyInfoInputs.cache
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\CalcularPedido\obj\Debug\netcoreapp3.1\CalcularPedido.AssemblyInfo.cs
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\CalcularPedido\obj\Debug\netcoreapp3.1\CalcularPedido.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\CalcularPedido\obj\Debug\netcoreapp3.1\CalcularPedido.dll
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\CalcularPedido\obj\Debug\netcoreapp3.1\CalcularPedido.pdb
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\CalcularPedido\obj\Debug\netcoreapp3.1\CalcularPedido.genruntimeconfig.cache

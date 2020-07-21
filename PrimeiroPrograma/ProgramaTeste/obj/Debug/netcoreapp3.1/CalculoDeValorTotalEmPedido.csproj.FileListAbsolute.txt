@@ -1,0 +1,13 @@
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\ProgramaTeste\bin\Debug\netcoreapp3.1\CalculoDeValorTotalEmPedido.exe
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\ProgramaTeste\bin\Debug\netcoreapp3.1\CalculoDeValorTotalEmPedido.deps.json
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\ProgramaTeste\bin\Debug\netcoreapp3.1\CalculoDeValorTotalEmPedido.runtimeconfig.json
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\ProgramaTeste\bin\Debug\netcoreapp3.1\CalculoDeValorTotalEmPedido.runtimeconfig.dev.json
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\ProgramaTeste\bin\Debug\netcoreapp3.1\CalculoDeValorTotalEmPedido.dll
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\ProgramaTeste\bin\Debug\netcoreapp3.1\CalculoDeValorTotalEmPedido.pdb
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\ProgramaTeste\obj\Debug\netcoreapp3.1\CalculoDeValorTotalEmPedido.csprojAssemblyReference.cache
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\ProgramaTeste\obj\Debug\netcoreapp3.1\CalculoDeValorTotalEmPedido.AssemblyInfoInputs.cache
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\ProgramaTeste\obj\Debug\netcoreapp3.1\CalculoDeValorTotalEmPedido.AssemblyInfo.cs
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\ProgramaTeste\obj\Debug\netcoreapp3.1\CalculoDeValorTotalEmPedido.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\ProgramaTeste\obj\Debug\netcoreapp3.1\CalculoDeValorTotalEmPedido.dll
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\ProgramaTeste\obj\Debug\netcoreapp3.1\CalculoDeValorTotalEmPedido.pdb
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\ProgramaTeste\obj\Debug\netcoreapp3.1\CalculoDeValorTotalEmPedido.genruntimeconfig.cache

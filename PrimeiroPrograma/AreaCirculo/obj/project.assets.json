@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rafael Aguiar\\OneDrive - Fatec Centro Paula Souza\\Estudo\\Cursos Online\\Udemy\\C#\\PrimeiroPrograma\\ProgramaTeste\\CalculoDeValorTotalEmPedido.csproj",
-      "projectName": "CalculoDeValorTotalEmPedido",
-      "projectPath": "C:\\Users\\Rafael Aguiar\\OneDrive - Fatec Centro Paula Souza\\Estudo\\Cursos Online\\Udemy\\C#\\PrimeiroPrograma\\ProgramaTeste\\CalculoDeValorTotalEmPedido.csproj",
+      "projectUniqueName": "C:\\Users\\Rafael Aguiar\\OneDrive - Fatec Centro Paula Souza\\Estudo\\Cursos Online\\Udemy\\C#\\PrimeiroPrograma\\AreaCirculo\\AreaCirculo.csproj",
+      "projectName": "AreaCirculo",
+      "projectPath": "C:\\Users\\Rafael Aguiar\\OneDrive - Fatec Centro Paula Souza\\Estudo\\Cursos Online\\Udemy\\C#\\PrimeiroPrograma\\AreaCirculo\\AreaCirculo.csproj",
       "packagesPath": "C:\\Users\\Rafael Aguiar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rafael Aguiar\\OneDrive - Fatec Centro Paula Souza\\Estudo\\Cursos Online\\Udemy\\C#\\PrimeiroPrograma\\ProgramaTeste\\obj\\",
+      "outputPath": "C:\\Users\\Rafael Aguiar\\OneDrive - Fatec Centro Paula Souza\\Estudo\\Cursos Online\\Udemy\\C#\\PrimeiroPrograma\\AreaCirculo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rafael Aguiar\\AppData\\Roaming\\NuGet\\NuGet.Config",
