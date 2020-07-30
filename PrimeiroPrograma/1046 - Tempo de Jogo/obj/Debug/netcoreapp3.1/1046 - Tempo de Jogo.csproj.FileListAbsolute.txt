@@ -1,0 +1,12 @@
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1046 - Tempo de Jogo\bin\Debug\netcoreapp3.1\1046 - Tempo de Jogo.exe
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1046 - Tempo de Jogo\bin\Debug\netcoreapp3.1\1046 - Tempo de Jogo.deps.json
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1046 - Tempo de Jogo\bin\Debug\netcoreapp3.1\1046 - Tempo de Jogo.runtimeconfig.json
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1046 - Tempo de Jogo\bin\Debug\netcoreapp3.1\1046 - Tempo de Jogo.runtimeconfig.dev.json
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1046 - Tempo de Jogo\bin\Debug\netcoreapp3.1\1046 - Tempo de Jogo.dll
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1046 - Tempo de Jogo\bin\Debug\netcoreapp3.1\1046 - Tempo de Jogo.pdb
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1046 - Tempo de Jogo\obj\Debug\netcoreapp3.1\1046 - Tempo de Jogo.AssemblyInfoInputs.cache
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1046 - Tempo de Jogo\obj\Debug\netcoreapp3.1\1046 - Tempo de Jogo.AssemblyInfo.cs
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1046 - Tempo de Jogo\obj\Debug\netcoreapp3.1\1046 - Tempo de Jogo.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1046 - Tempo de Jogo\obj\Debug\netcoreapp3.1\1046 - Tempo de Jogo.dll
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1046 - Tempo de Jogo\obj\Debug\netcoreapp3.1\1046 - Tempo de Jogo.pdb
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1046 - Tempo de Jogo\obj\Debug\netcoreapp3.1\1046 - Tempo de Jogo.genruntimeconfig.cache

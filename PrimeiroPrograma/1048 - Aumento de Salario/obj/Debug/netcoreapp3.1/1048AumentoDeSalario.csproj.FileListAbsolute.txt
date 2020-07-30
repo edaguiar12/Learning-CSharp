@@ -1,0 +1,13 @@
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1048 - Aumento de Salario\bin\Debug\netcoreapp3.1\1048AumentoDeSalario.exe
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1048 - Aumento de Salario\bin\Debug\netcoreapp3.1\1048AumentoDeSalario.deps.json
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1048 - Aumento de Salario\bin\Debug\netcoreapp3.1\1048AumentoDeSalario.runtimeconfig.json
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1048 - Aumento de Salario\bin\Debug\netcoreapp3.1\1048AumentoDeSalario.runtimeconfig.dev.json
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1048 - Aumento de Salario\bin\Debug\netcoreapp3.1\1048AumentoDeSalario.dll
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1048 - Aumento de Salario\bin\Debug\netcoreapp3.1\1048AumentoDeSalario.pdb
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1048 - Aumento de Salario\obj\Debug\netcoreapp3.1\1048AumentoDeSalario.csprojAssemblyReference.cache
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1048 - Aumento de Salario\obj\Debug\netcoreapp3.1\1048AumentoDeSalario.AssemblyInfoInputs.cache
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1048 - Aumento de Salario\obj\Debug\netcoreapp3.1\1048AumentoDeSalario.AssemblyInfo.cs
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1048 - Aumento de Salario\obj\Debug\netcoreapp3.1\1048AumentoDeSalario.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1048 - Aumento de Salario\obj\Debug\netcoreapp3.1\1048AumentoDeSalario.dll
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1048 - Aumento de Salario\obj\Debug\netcoreapp3.1\1048AumentoDeSalario.pdb
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1048 - Aumento de Salario\obj\Debug\netcoreapp3.1\1048AumentoDeSalario.genruntimeconfig.cache

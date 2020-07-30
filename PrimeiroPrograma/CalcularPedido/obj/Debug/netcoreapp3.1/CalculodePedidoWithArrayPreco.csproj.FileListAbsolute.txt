@@ -1,0 +1,13 @@
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\CalcularPedido\bin\Debug\netcoreapp3.1\CalculodePedidoWithArrayPreco.exe
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\CalcularPedido\bin\Debug\netcoreapp3.1\CalculodePedidoWithArrayPreco.deps.json
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\CalcularPedido\bin\Debug\netcoreapp3.1\CalculodePedidoWithArrayPreco.runtimeconfig.json
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\CalcularPedido\bin\Debug\netcoreapp3.1\CalculodePedidoWithArrayPreco.runtimeconfig.dev.json
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\CalcularPedido\bin\Debug\netcoreapp3.1\CalculodePedidoWithArrayPreco.dll
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\CalcularPedido\bin\Debug\netcoreapp3.1\CalculodePedidoWithArrayPreco.pdb
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\CalcularPedido\obj\Debug\netcoreapp3.1\CalculodePedidoWithArrayPreco.csprojAssemblyReference.cache
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\CalcularPedido\obj\Debug\netcoreapp3.1\CalculodePedidoWithArrayPreco.AssemblyInfoInputs.cache
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\CalcularPedido\obj\Debug\netcoreapp3.1\CalculodePedidoWithArrayPreco.AssemblyInfo.cs
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\CalcularPedido\obj\Debug\netcoreapp3.1\CalculodePedidoWithArrayPreco.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\CalcularPedido\obj\Debug\netcoreapp3.1\CalculodePedidoWithArrayPreco.dll
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\CalcularPedido\obj\Debug\netcoreapp3.1\CalculodePedidoWithArrayPreco.pdb
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\CalcularPedido\obj\Debug\netcoreapp3.1\CalculodePedidoWithArrayPreco.genruntimeconfig.cache

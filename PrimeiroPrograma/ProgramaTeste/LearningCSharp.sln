@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculoDeValorTotalEmPedido
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AreaCirculo", "..\AreaCirculo\AreaCirculo.csproj", "{B45F46EA-D083-4FE5-825D-7283AC179387}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcularPedido", "..\CalcularPedido\CalcularPedido.csproj", "{CA15A968-FDF6-4D79-81F6-300A4F7CE3C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculodePedidoWithArrayPreco", "..\CalcularPedido\CalculodePedidoWithArrayPreco.csproj", "{CA15A968-FDF6-4D79-81F6-300A4F7CE3C2}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bhaskara", "..\Bhaskara\Bhaskara.csproj", "{97BD12D9-E01D-4B19-B650-A3EAD47E78AA}"
 EndProject
@@ -15,9 +15,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AcessoPermitido", "..\Acess
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InOut", "..\InOut\InOut.csproj", "{6197385C-E994-4D1B-B6C1-8225130547A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1035", "..\1035\1035.csproj", "{58A32C73-A73D-452A-9915-9E7C921EDCF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1035", "..\1035\1035.csproj", "{58A32C73-A73D-452A-9915-9E7C921EDCF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1038", "..\1038\1038.csproj", "{A5EEFE57-6BC9-43A6-A658-9E679CAEC80E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1038", "..\1038\1038.csproj", "{A5EEFE57-6BC9-43A6-A658-9E679CAEC80E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1044Multiplos", "..\1044 - Multiplos\1044Multiplos.csproj", "{45C3C8E8-536D-4A6C-98A7-A7769EDB52F9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1046TempodeJogo", "..\1046 - Tempo de Jogo\1046TempodeJogo.csproj", "{96DB60D9-EB1C-48FF-A606-65BC514905DA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1048AumentoDeSalario", "..\1048 - Aumento de Salario\1048AumentoDeSalario.csproj", "{0ABDFCB6-7A6F-4C5B-AE81-9DFCC34B2040}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1037Intervalo", "..\1037Intervalo\1037Intervalo.csproj", "{DE1B3336-457F-4E51-A11B-7AB934E2206B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +65,22 @@ Global
 		{A5EEFE57-6BC9-43A6-A658-9E679CAEC80E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5EEFE57-6BC9-43A6-A658-9E679CAEC80E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5EEFE57-6BC9-43A6-A658-9E679CAEC80E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45C3C8E8-536D-4A6C-98A7-A7769EDB52F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45C3C8E8-536D-4A6C-98A7-A7769EDB52F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45C3C8E8-536D-4A6C-98A7-A7769EDB52F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45C3C8E8-536D-4A6C-98A7-A7769EDB52F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96DB60D9-EB1C-48FF-A606-65BC514905DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96DB60D9-EB1C-48FF-A606-65BC514905DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96DB60D9-EB1C-48FF-A606-65BC514905DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96DB60D9-EB1C-48FF-A606-65BC514905DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ABDFCB6-7A6F-4C5B-AE81-9DFCC34B2040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ABDFCB6-7A6F-4C5B-AE81-9DFCC34B2040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ABDFCB6-7A6F-4C5B-AE81-9DFCC34B2040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ABDFCB6-7A6F-4C5B-AE81-9DFCC34B2040}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE1B3336-457F-4E51-A11B-7AB934E2206B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE1B3336-457F-4E51-A11B-7AB934E2206B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE1B3336-457F-4E51-A11B-7AB934E2206B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE1B3336-457F-4E51-A11B-7AB934E2206B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

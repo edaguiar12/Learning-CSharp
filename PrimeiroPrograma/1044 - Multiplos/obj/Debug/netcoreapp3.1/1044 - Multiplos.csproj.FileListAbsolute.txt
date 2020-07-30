@@ -1,0 +1,12 @@
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1044 - Multiplos\bin\Debug\netcoreapp3.1\1044 - Multiplos.exe
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1044 - Multiplos\bin\Debug\netcoreapp3.1\1044 - Multiplos.deps.json
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1044 - Multiplos\bin\Debug\netcoreapp3.1\1044 - Multiplos.runtimeconfig.json
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1044 - Multiplos\bin\Debug\netcoreapp3.1\1044 - Multiplos.runtimeconfig.dev.json
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1044 - Multiplos\bin\Debug\netcoreapp3.1\1044 - Multiplos.dll
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1044 - Multiplos\bin\Debug\netcoreapp3.1\1044 - Multiplos.pdb
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1044 - Multiplos\obj\Debug\netcoreapp3.1\1044 - Multiplos.AssemblyInfoInputs.cache
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1044 - Multiplos\obj\Debug\netcoreapp3.1\1044 - Multiplos.AssemblyInfo.cs
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1044 - Multiplos\obj\Debug\netcoreapp3.1\1044 - Multiplos.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1044 - Multiplos\obj\Debug\netcoreapp3.1\1044 - Multiplos.dll
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1044 - Multiplos\obj\Debug\netcoreapp3.1\1044 - Multiplos.pdb
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1044 - Multiplos\obj\Debug\netcoreapp3.1\1044 - Multiplos.genruntimeconfig.cache

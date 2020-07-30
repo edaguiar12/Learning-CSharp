@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rafael Aguiar\\OneDrive - Fatec Centro Paula Souza\\Estudo\\Cursos Online\\Udemy\\C#\\PrimeiroPrograma\\CalcularPedido\\CalcularPedido.csproj",
-      "projectName": "CalcularPedido",
-      "projectPath": "C:\\Users\\Rafael Aguiar\\OneDrive - Fatec Centro Paula Souza\\Estudo\\Cursos Online\\Udemy\\C#\\PrimeiroPrograma\\CalcularPedido\\CalcularPedido.csproj",
+      "projectUniqueName": "C:\\Users\\Rafael Aguiar\\OneDrive - Fatec Centro Paula Souza\\Estudo\\Cursos Online\\Udemy\\C#\\PrimeiroPrograma\\CalcularPedido\\CalculodePedidoWithArrayPreco.csproj",
+      "projectName": "CalculodePedidoWithArrayPreco",
+      "projectPath": "C:\\Users\\Rafael Aguiar\\OneDrive - Fatec Centro Paula Souza\\Estudo\\Cursos Online\\Udemy\\C#\\PrimeiroPrograma\\CalcularPedido\\CalculodePedidoWithArrayPreco.csproj",
       "packagesPath": "C:\\Users\\Rafael Aguiar\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Rafael Aguiar\\OneDrive - Fatec Centro Paula Souza\\Estudo\\Cursos Online\\Udemy\\C#\\PrimeiroPrograma\\CalcularPedido\\obj\\",
       "projectStyle": "PackageReference",
