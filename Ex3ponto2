@@ -1,0 +1,26 @@
+using System;
+
+namespace ProvaCSharp
+{
+  class Program
+  {
+    public void main(string[] args)
+    {
+      int N = (int)Console.ReadLine();
+      int in, out;
+      for(int i = 0; i < N; i++)
+      {
+        int valor=(int)Console.Readline();
+        if (valor >= 10 && valor <= 20) 
+        {
+          in ++;
+        }else
+        {
+          out++;
+        }
+      }
+      Console.WriteLine("{0} in", in);
+      Console.WriteLine("{0} out", out);
+    }
+  }
+}
