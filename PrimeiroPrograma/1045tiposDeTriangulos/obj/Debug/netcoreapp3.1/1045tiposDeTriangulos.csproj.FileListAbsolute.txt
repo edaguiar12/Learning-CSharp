@@ -1,0 +1,13 @@
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1045tiposDeTriangulos\bin\Debug\netcoreapp3.1\1045tiposDeTriangulos.exe
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1045tiposDeTriangulos\bin\Debug\netcoreapp3.1\1045tiposDeTriangulos.deps.json
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1045tiposDeTriangulos\bin\Debug\netcoreapp3.1\1045tiposDeTriangulos.runtimeconfig.json
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1045tiposDeTriangulos\bin\Debug\netcoreapp3.1\1045tiposDeTriangulos.runtimeconfig.dev.json
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1045tiposDeTriangulos\bin\Debug\netcoreapp3.1\1045tiposDeTriangulos.dll
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1045tiposDeTriangulos\bin\Debug\netcoreapp3.1\1045tiposDeTriangulos.pdb
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1045tiposDeTriangulos\obj\Debug\netcoreapp3.1\1045tiposDeTriangulos.csprojAssemblyReference.cache
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1045tiposDeTriangulos\obj\Debug\netcoreapp3.1\1045tiposDeTriangulos.AssemblyInfoInputs.cache
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1045tiposDeTriangulos\obj\Debug\netcoreapp3.1\1045tiposDeTriangulos.AssemblyInfo.cs
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1045tiposDeTriangulos\obj\Debug\netcoreapp3.1\1045tiposDeTriangulos.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1045tiposDeTriangulos\obj\Debug\netcoreapp3.1\1045tiposDeTriangulos.dll
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1045tiposDeTriangulos\obj\Debug\netcoreapp3.1\1045tiposDeTriangulos.pdb
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1045tiposDeTriangulos\obj\Debug\netcoreapp3.1\1045tiposDeTriangulos.genruntimeconfig.cache

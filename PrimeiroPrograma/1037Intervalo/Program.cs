@@ -13,7 +13,7 @@ namespace _1037Intervalo
             {
                 mensagem = "Fora de intervalo";
             }else if (valorQualquer >= 0.0 && valorQualquer <= 25.0)
-            {
+            {   
                 mensagem = "Intervalo [0,25]";
             }
             else if (valorQualquer >= 25.000001 && valorQualquer <= 50.0000000)

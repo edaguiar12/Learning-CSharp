@@ -1,0 +1,12 @@
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1041CoordenadasPonto\bin\Debug\netcoreapp3.1\1041CoordenadasPonto.exe
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1041CoordenadasPonto\bin\Debug\netcoreapp3.1\1041CoordenadasPonto.deps.json
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1041CoordenadasPonto\bin\Debug\netcoreapp3.1\1041CoordenadasPonto.runtimeconfig.json
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1041CoordenadasPonto\bin\Debug\netcoreapp3.1\1041CoordenadasPonto.runtimeconfig.dev.json
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1041CoordenadasPonto\bin\Debug\netcoreapp3.1\1041CoordenadasPonto.dll
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1041CoordenadasPonto\bin\Debug\netcoreapp3.1\1041CoordenadasPonto.pdb
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1041CoordenadasPonto\obj\Debug\netcoreapp3.1\1041CoordenadasPonto.AssemblyInfoInputs.cache
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1041CoordenadasPonto\obj\Debug\netcoreapp3.1\1041CoordenadasPonto.AssemblyInfo.cs
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1041CoordenadasPonto\obj\Debug\netcoreapp3.1\1041CoordenadasPonto.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1041CoordenadasPonto\obj\Debug\netcoreapp3.1\1041CoordenadasPonto.dll
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1041CoordenadasPonto\obj\Debug\netcoreapp3.1\1041CoordenadasPonto.pdb
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1041CoordenadasPonto\obj\Debug\netcoreapp3.1\1041CoordenadasPonto.genruntimeconfig.cache
