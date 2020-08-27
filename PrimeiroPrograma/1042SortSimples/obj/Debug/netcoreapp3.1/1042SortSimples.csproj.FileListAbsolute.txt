@@ -1,0 +1,13 @@
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1042SortSimples\bin\Debug\netcoreapp3.1\1042SortSimples.exe
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1042SortSimples\bin\Debug\netcoreapp3.1\1042SortSimples.deps.json
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1042SortSimples\bin\Debug\netcoreapp3.1\1042SortSimples.runtimeconfig.json
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1042SortSimples\bin\Debug\netcoreapp3.1\1042SortSimples.runtimeconfig.dev.json
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1042SortSimples\bin\Debug\netcoreapp3.1\1042SortSimples.dll
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1042SortSimples\bin\Debug\netcoreapp3.1\1042SortSimples.pdb
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1042SortSimples\obj\Debug\netcoreapp3.1\1042SortSimples.csprojAssemblyReference.cache
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1042SortSimples\obj\Debug\netcoreapp3.1\1042SortSimples.AssemblyInfoInputs.cache
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1042SortSimples\obj\Debug\netcoreapp3.1\1042SortSimples.AssemblyInfo.cs
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1042SortSimples\obj\Debug\netcoreapp3.1\1042SortSimples.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1042SortSimples\obj\Debug\netcoreapp3.1\1042SortSimples.dll
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1042SortSimples\obj\Debug\netcoreapp3.1\1042SortSimples.pdb
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1042SortSimples\obj\Debug\netcoreapp3.1\1042SortSimples.genruntimeconfig.cache

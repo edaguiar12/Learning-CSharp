@@ -62,6 +62,7 @@ namespace _1049Animal
                     }
                 }
             }
+            Console.WriteLine(animalEscolhido);
         }
     }
 }

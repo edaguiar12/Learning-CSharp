@@ -1,0 +1,13 @@
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1051ImpostodeRenda\bin\Debug\netcoreapp3.1\1051ImpostodeRenda.exe
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1051ImpostodeRenda\bin\Debug\netcoreapp3.1\1051ImpostodeRenda.deps.json
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1051ImpostodeRenda\bin\Debug\netcoreapp3.1\1051ImpostodeRenda.runtimeconfig.json
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1051ImpostodeRenda\bin\Debug\netcoreapp3.1\1051ImpostodeRenda.runtimeconfig.dev.json
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1051ImpostodeRenda\bin\Debug\netcoreapp3.1\1051ImpostodeRenda.dll
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1051ImpostodeRenda\bin\Debug\netcoreapp3.1\1051ImpostodeRenda.pdb
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1051ImpostodeRenda\obj\Debug\netcoreapp3.1\1051ImpostodeRenda.csprojAssemblyReference.cache
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1051ImpostodeRenda\obj\Debug\netcoreapp3.1\1051ImpostodeRenda.AssemblyInfoInputs.cache
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1051ImpostodeRenda\obj\Debug\netcoreapp3.1\1051ImpostodeRenda.AssemblyInfo.cs
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1051ImpostodeRenda\obj\Debug\netcoreapp3.1\1051ImpostodeRenda.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1051ImpostodeRenda\obj\Debug\netcoreapp3.1\1051ImpostodeRenda.dll
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1051ImpostodeRenda\obj\Debug\netcoreapp3.1\1051ImpostodeRenda.pdb
+C:\Users\Rafael Aguiar\OneDrive - Fatec Centro Paula Souza\Estudo\Cursos Online\Udemy\C#\PrimeiroPrograma\1051ImpostodeRenda\obj\Debug\netcoreapp3.1\1051ImpostodeRenda.genruntimeconfig.cache
